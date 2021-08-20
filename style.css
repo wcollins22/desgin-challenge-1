@@ -43,24 +43,22 @@ p.desc {
    margin, padding, text-align
    
 */
-
 body {
-    padding: 1em;
+    padding: 2em;
 }
 .content {
     padding: 1em;
 }
 
 p.date {
-    text-align: center;
-    margin: .25em;
+    text-align: left;
+    margin: 0;
 }
 
 h3 {
-    text-align: center;
+
 }
 
 p.desc {
-    text-align: center;
     margin-bottom: 0;
 }
